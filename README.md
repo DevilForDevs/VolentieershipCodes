@@ -13,6 +13,8 @@ The goal of this session is simple:
 ---
 
 ## 🖥️ What You'll Build
+<img width="1024" height="768" alt="Screenshot (557)" src="https://github.com/user-attachments/assets/bf801374-83c5-4315-8d7d-fba9921880b7" />
+
 
 In this session, we create a simple desktop application using Python and Tkinter.
 
